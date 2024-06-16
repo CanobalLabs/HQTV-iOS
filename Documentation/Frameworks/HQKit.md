@@ -1,1 +1,0 @@
-Contains a reference to the [default HQ API URL](https://api-quiz.hype.space).

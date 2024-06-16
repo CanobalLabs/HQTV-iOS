@@ -1,1 +1,0 @@
-[App Lovin](https://developers.applovin.com) provides solutions for app monitization.

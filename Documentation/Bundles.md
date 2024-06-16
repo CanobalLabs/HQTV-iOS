@@ -1,2 +1,0 @@
-- [[Bundles/AppLovinSDKResources]]
-- [[Bundles/GoogleSignIn]]
